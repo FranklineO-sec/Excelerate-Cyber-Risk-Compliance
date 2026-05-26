@@ -5,7 +5,6 @@
 | **Detail** | **Description** |
 |-----------|-----------------|
 | **Role** | Cyber Risk & Compliance Intern |
-| **Duration** | 4 Weeks |
 | **Focus Area** | Governance, Risk & Compliance (GRC) |
 | **Goal** | To perform a full-cycle cyber risk assessment and compliance analysis, aligning risks with NIST CSF & ISO 27001 while drafting professional GRC documentation. |
 
