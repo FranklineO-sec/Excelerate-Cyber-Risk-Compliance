@@ -1,141 +1,150 @@
-# 📘 Excelerate Cyber Risk & Compliance Internship – Case Study
+# Cyber Risk & Compliance Assessment (GRC Case Study)
 
-## 1. **Overview**
+**Role:** Cyber Risk & Compliance Intern  
+**Focus:** Governance, Risk & Compliance (GRC) | Risk Assessment | NIST CSF | ISO 27001
 
-| **Detail** | **Description** |
-|-----------|-----------------|
-| **Role** | Cyber Risk & Compliance Intern |
-| **Focus Area** | Governance, Risk & Compliance (GRC) |
-| **Goal** | To perform a full-cycle cyber risk assessment and compliance analysis, aligning risks with NIST CSF & ISO 27001 while drafting professional GRC documentation. |
-
-This write-up summarizes my work during the Excelerate Cyber Risk & Compliance Internship. All examples have been generalized to protect confidential information. Technical or proprietary details tied to internal systems have been anonymized.
+📄 **Full Risk Assessment Report:**  
+[View Report](https://drive.google.com/file/d/1TYWTLh-xbIgqsvvOP3GMoiuse_ay5c1r/view?usp=drivesdk)
 
 ---
 
-## 2. **Key Project: Cyber Risk Assessment for a Remote Startup**
+## Executive Summary
 
-###  **Project Description**
-I conducted a multi-phase cyber risk assessment for a fully remote e-commerce startup. The environment relied heavily on cloud-based tools such as productivity suites, financial platforms, and communication channels.
+Conducted an end-to-end cyber risk assessment for a remote-first e-commerce startup, identifying critical security and compliance gaps across access management, data protection, governance, and incident response. Developed a structured risk register, mapped findings to NIST Cybersecurity Framework (CSF) and ISO 27001 controls, and produced a compliance roadmap to strengthen organizational security maturity.
 
-###  **Challenge**
-The organization had no formal security policies and minimal governance. Several practices, including shared credentials, lack of MFA, and informal data handling introduced significant risks. A notable issue involved a **high-risk vulnerability in a mission-critical internal application**.
-
-###  **Actions Taken**
-- Mapped all business assets (data, users, tools, workflows).  
-- Identified threats and vulnerabilities through structured analysis.  
-- Conducted likelihood and impact scoring to prioritize risks.  
-- Mapped each risk to **NIST CSF** and **ISO 27001** controls.  
-- Drafted a full Cyber Risk & Compliance Report with recommendations.  
-- Developed a realistic compliance roadmap tailored to a startup environment.
-
-###  **Impact / Outcome**
-- Produced a structured **risk register**, improving visibility on high-priority risks.  
-- Highlighted compliance gaps and proposed practical mitigation steps.  
-- Improved the organization’s alignment with globally recognized frameworks.  
-- Strengthened the foundation for future policy development and governance.  
+### Key Outcomes
+- Assessed organizational assets, workflows, and security risks.
+- Identified and prioritized high-impact cyber threats and vulnerabilities.
+- Mapped risks to NIST CSF and ISO 27001 control requirements.
+- Developed a comprehensive Cyber Risk & Compliance Report.
+- Produced actionable remediation recommendations and compliance roadmap.
 
 ---
 
-## 3. **Policy Drafting & Control Mapping**
+## Project Scope
 
-###  **Key Deliverable**
-A complete **Cyber Risk & Compliance Report** that included:
+### Environment
+- Remote-first workforce
+- Cloud-based collaboration platforms
+- Financial and operational SaaS applications
+- Business-critical internal systems
 
-- Asset inventory  
-- Threat & vulnerability matrix  
-- Compliance gap analysis  
-- Control mapping  
-- Risk mitigation recommendations  
-- Short- and long-term compliance roadmap  
-
-###  **Control Mapping (NIST CSF & ISO 27001)**
-Each identified risk was aligned with relevant control categories. Examples (generalized):
-
-| **Risk Area** | **NIST CSF Category** | **ISO 27001 Control** |
-|---------------|------------------------|------------------------|
-| Weak authentication practices | PR.AC – Access Control | A.5.17 – Authentication Management |
-| Public access to sensitive data | PR.DS – Data Security | A.8.2 – Information Access Control |
-| Lack of incident response process | RS.RP – Response Planning | A.5.24 – Incident Management |
-| Missing employee awareness training | PR.AT – Security Awareness | A.6.3 – Training & Awareness |
-| No centralized logging | DE.CM – Continuous Monitoring | A.8.16 – Logging & Monitoring |
-
-###  **Skills Highlighted**
-- Risk analysis & prioritization  
-- Security policy comprehension  
-- Compliance frameworks (NIST & ISO 27001)  
-- Technical-to-nontechnical translation  
-- Documentation & professional reporting  
-- Collaborative research and structured problem solving  
+### Objective
+Evaluate cyber risks, determine compliance gaps, and recommend practical controls aligned with industry-recognized security frameworks.
 
 ---
 
-## 4. **Mitigation Strategies (High-Level Summary)**
+## Risk Assessment Methodology
 
-### ✅ **1. Strengthen Access Controls**
-- Enforce MFA for all accounts  
-- Implement role-based access control (RBAC)  
-- Remove shared credentials  
+### 1. Asset Identification
+Documented critical assets including:
+- Business data
+- User accounts
+- Cloud services
+- Internal applications
+- Operational workflows
 
-### ✅ **2. Improve Data Protection**
-- Restrict public sharing of sensitive files  
-- Apply encryption at rest and in transit  
-- Implement least-privilege access  
+### 2. Threat & Vulnerability Analysis
+Evaluated security weaknesses including:
+- Weak authentication controls
+- Shared credentials
+- Limited monitoring capabilities
+- Inadequate governance practices
+- Absence of formal security procedures
 
-### ✅ **3. Build Security Awareness**
-- Regular staff training  
-- Phishing awareness sessions  
-- Monthly refresher modules  
+### 3. Risk Prioritization
+Performed likelihood and impact analysis to:
+- Quantify risk exposure
+- Prioritize remediation efforts
+- Focus resources on critical business risks
 
-### ✅ **4. Establish Incident Response Capability**
-- Draft a lightweight incident response procedure  
-- Assign roles and responsibilities  
-- Conduct tabletop exercises  
-
-### ✅ **5. Enhance Monitoring & Visibility**
-- Centralize system logs  
-- Enable alerting for unusual activity  
-- Keep audit trails for all admin actions  
-
-### ✅ **6. Strengthen Governance Policies**
-- Access control policy  
-- Acceptable use policy  
-- Secure data handling guidelines  
-- Change management standards
+### 4. Compliance & Control Mapping
+Mapped identified risks to:
+- NIST Cybersecurity Framework (CSF)
+- ISO/IEC 27001:2022 controls
 
 ---
 
-## 5. **Key Learning & Professional Takeaways**
+## Selected Risk-to-Control Mapping
 
-###  **1. Clear Understanding of Compliance vs Technical Security**
-This internship helped me understand the distinction between:
-- **Security policy (the why & what)** – purpose, expectations, control requirements  
-- **Technical implementation (the how)** – configurations, tools, and security measures  
-
-I learned how policies drive technical decisions and how technical findings inform governance.
-
-###  **2. Stronger Communication Skills**
-I practiced:
-- Summarizing technical risks for non-technical managers  
-- Writing executive summaries, risk statements, and reports  
-- Presenting findings in a clear business-oriented language  
-
-###  **3. Practical GRC Experience**
-I gained hands-on exposure to:
-- Risk scoring  
-- Gap analysis  
-- Control mapping  
-- Compliance roadmapping  
-- Drafting realistic recommendations  
-
-###  **4. Future Goal**
-My goal is to continue growing as a cybersecurity professional who can bridge:
-- Technical insights  
-- Business risk  
-- Compliance frameworks  
-to help organizations build stronger, more resilient security programs.
+| Risk Area | NIST CSF | ISO 27001 |
+|------------|------------|------------|
+| Weak authentication practices | PR.AC – Access Control | A.5.17 – Authentication Information |
+| Sensitive data exposure | PR.DS – Data Security | A.8.2 – Information Access Control |
+| Missing incident response process | RS.RP – Response Planning | A.5.24 – Incident Management |
+| Lack of security awareness training | PR.AT – Awareness & Training | A.6.3 – Information Security Awareness |
+| Insufficient monitoring and logging | DE.CM – Security Monitoring | A.8.16 – Monitoring Activities |
 
 ---
 
-## ✅ **End of Write-Up**
+## Deliverables Produced
 
-This case study reflects my learning, analytical depth, and communication skills across the four-week program. Additional case studies, technical labs, and CTF write-ups will be added to this repository as I continue to grow in cybersecurity.
+- Cyber Risk Assessment Report
+- Risk Register
+- Threat & Vulnerability Matrix
+- Compliance Gap Analysis
+- NIST CSF & ISO 27001 Control Mapping
+- Risk Mitigation Plan
+- Security Improvement Roadmap
+
+---
+
+## Strategic Recommendations
+
+### Access Security
+- Enforce Multi-Factor Authentication (MFA)
+- Implement Role-Based Access Control (RBAC)
+- Eliminate shared credentials
+
+### Data Protection
+- Apply least-privilege principles
+- Encrypt sensitive data at rest and in transit
+- Restrict unnecessary external sharing
+
+### Security Operations
+- Centralize logging and monitoring
+- Implement alerting for suspicious activities
+- Maintain audit trails for privileged actions
+
+### Governance & Compliance
+- Establish access control policies
+- Define incident response procedures
+- Implement security awareness training
+- Formalize change management processes
+
+---
+
+## Skills Demonstrated
+
+### Governance, Risk & Compliance (GRC)
+- Cyber Risk Assessment
+- Risk Scoring & Prioritization
+- Compliance Gap Analysis
+- Security Control Evaluation
+- Policy Review & Development
+
+### Frameworks & Standards
+- NIST Cybersecurity Framework (CSF)
+- ISO/IEC 27001
+
+### Reporting & Communication
+- Executive Reporting
+- Risk Documentation
+- Technical-to-Business Translation
+- Compliance Roadmapping
+
+---
+
+## Professional Impact
+
+This project strengthened my ability to evaluate cyber risks, align security controls with compliance requirements, and communicate findings to both technical and non-technical stakeholders. The experience provided practical exposure to governance, risk management, compliance analysis, and security reporting within a business context.
+
+---
+
+## Technologies & Frameworks
+
+`NIST CSF` • `ISO 27001` • `Risk Assessment` • `Risk Register Development` • `Compliance Gap Analysis` • `Control Mapping` • `Governance Documentation` • `Security Reporting`
+
+---
+
+> **Note:** All organizational details have been anonymized to protect confidentiality. This assessment reflects work completed during the Excelerate Cyber Risk & Compliance Internship.
